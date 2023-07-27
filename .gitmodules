@@ -1,3 +1,5 @@
 [submodule "external/submodule_mainrepo"]
 	path = external/submodule_mainrepo
 	url = git@github.com:MetalBeerGeek/submodule_mainrepo.git
+[submodule "submodule_mainrepo"]
+	branch = v0.1
