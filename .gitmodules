@@ -1,0 +1,3 @@
+[submodule "external/submodule_subrepo"]
+	path = external/submodule_subrepo
+	url = https://github.com/MetalBeerGeek/submodule_subrepo.git
